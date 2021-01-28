@@ -30,7 +30,7 @@ The brush V7 are only compatible with Krita 2.9.x
 
 CC-0 /public domain.
 
-##Installation
+## Installation
 
 2 ways :
 
