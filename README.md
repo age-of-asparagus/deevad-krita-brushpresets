@@ -1,7 +1,10 @@
 
+## Krita Meets Bob Ross Updates :
 The brush set is for use with the [Krita meets Bob Ross YouTube tutorial series](https://www.youtube.com/watch?v=8FfVnEIkA3I&list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq_xOG).
 
-The repo is a fork of v7.0 of David Revoy's brush set that has been modified slightly to work with the most recent versions of Krita, with a few other old Krita brushes added as well.  Last tested on Krita 4.4.2
+The repo is a fork of v7.0 of David Revoy's brush set that has been modified slightly to work with the most recent versions of Krita, with a few other old Krita brushes we need added in as well.  
+
+Last tested on Krita 4.4.2
 
 deevad-krita-brushpresets
 =========================
@@ -30,7 +33,7 @@ The brush V7 are only compatible with Krita 2.9.x
 
 CC-0 /public domain.
 
-## Installation
+## Installation :
 
 2 ways :
 
